@@ -1,7 +1,13 @@
 ## Visual_MARL
 
-**Note:** All code and demonstrations are used for our submitted conference paper:
-> Ruyu Luo, Wanli Ni, and Hui Tian, "Visualizing Multi-Agent Reinforcement Learning for Robotic Communication in Industrial IoT Networks," submitted to IEEE INFOCOM Demo, Jan. 2022.
+**Note:** All code and demonstrations are used for our INFOCOM demo paper:
+> Ruyu Luo, Wanli Ni, and Hui Tian, "Visualizing Multi-Agent Reinforcement Learning for Robotic Communication in Industrial IoT Networks," in Proc. IEEE INFOCOM Demos, virtual, May 2022.
+
+**Abstract:** 
+
+| With its mobility and flexibility, autonomous robots have received extensive attention in industrial Internet of Things (IoT). In this paper, we adopt non-orthogonal multiple access and multi-antenna technology to enhance the connectivity of sensors and the throughput of data collection through taking advantage of the power and spatial domains. For average sum rate maximization, we optimize the transmit power of sensors and the trajectories of robots jointly. To deal with uncertainty and dynamics in the industrial environment, we propose a multi-agent reinforcement learning (MARL) algorithm with experience exchange. Next, we present the visualization of robotic communication and mobility to analyze the learning behavior intuitively. From the software implementation results, we observe that the proposed MARL algorithm can effectively adjust the communication strategies of sensors and control the trajectories of robots in a fully distributed manner. |
+| :----------------------------------------------------------- |
+| **Keywords:** Multi-agent reinforcement learning, robotic communication, industrial Internet of Things. |
 
 In this paper, we present the simulation and visualization of multi-agent reinforcement learning (MARL) with upper-confidence bound (UCB) exploration.
 
